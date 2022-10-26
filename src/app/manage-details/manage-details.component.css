@@ -1,0 +1,25 @@
+.conterclass{
+    padding-top:5px
+}
+.labelclass{
+    font-family: 'Times New Roman', Times, serif;
+}
+.cardheader{
+    background-color: rgb(45, 45, 214);
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+}
+.labelclass{
+    color: rgb(45, 45, 214);
+}
+.btn{
+    background-color:  rgb(45, 45, 214) ;
+    color: white;
+    margin-top: 20px;
+}
+
+h1{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+}
